@@ -3,7 +3,7 @@ var favouriteColor = 'Black';
 var favouriteFood = 'Barbecue';
 var city = 'Dublin';
 
-/*This line of code display the value of each variable;*/
+//This line of code display the value of each variable;
 console.log(firstName + ' favorite color is: ' + favouriteColor + ' favorite food is: ' + favouriteFood + ' City is: ' + city);
 
 var phrase = 'A rainbow is formed by the sunlight. Shining through rain drops so small. The rain bends the light from the sunshine, and colors the sky for us all.';
